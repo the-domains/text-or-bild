@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ein Motor des großen Flugzeugs hustet schwarzen Rauch. Die Kamera kühl in meiner Hand, kühl aber schwer. “Sie müssen jetzt umkehren…” aber sie kehren nicht um. Schießen, ohne sich um den brennenden Motor zu kümmern. Erde spritzt auf, kleine Steine. Ein scharfer Schmerz, mein Arm ist fremd geworden. Ich ziele mit der Kamera, als könnte sie uns retten. Eine winzige Blume, Wüstenblume, blüht neben deinem Schuh. Mein Kopf ganz leicht. Gleich lege ich mich zu dir.'
-datePublished: '2016-04-30T17:37:37.458Z'
-dateModified: '2016-04-30T17:37:27.370Z'
+datePublished: '2016-04-30T17:39:54.024Z'
+dateModified: '2016-04-30T17:37:46.128Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-ein-motor-des-grossen-flugzeugs-hustet-schwarzen-rauch-die-k.md
