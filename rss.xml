@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>https://thegrid.ai/text-or-bild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 20:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:17:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/text-or-bild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spirit on the Water]]></title>
+            <description><![CDATA[<p>Tagträume verschwimmen mit Nachtträumen, und beide hängen in der Luft. Wie gut das ist. Manchmal wachsen mir Flügel, und ich gleite dahin, über Wasser, über Land. Alles ist leicht, und ganz ohne Technik lache ich mit den Möwen, den fremden. Die Fremdheit ist schön.</p>]]></description>
+            <link>https://thegrid.ai/text-or-bild/spirit-on-the-water/index.html</link>
+            <guid isPermaLink="false">29c5d16a-a168-4d8b-9ccf-914ff3aab111</guid>
+            <pubDate>Sat, 30 Apr 2016 21:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gläserne Zeit]]></title>
             <description><![CDATA[<p>Wie strahlend, durchscheinend, beinah transparent. Als wäre sie gar nicht da. Die Zeit. Nicht da, weil meine Gedanken durchschwingen, vorwärts und rückwärts, als wäre das Leben ein einziges großes Jetzt: Gefangen im Nie. Das Nie ist schwarz, und es wird größer, aber das Jetzt wird es nicht erreichen. Wie schön. </p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/text-or-bild/fuhlfehler/index.html</link>
             <guid isPermaLink="false">1d81a1eb-c269-470a-9763-9c52b3ba40a9</guid>
             <pubDate>Sat, 30 Apr 2016 20:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noch einmal]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c025f2-b534-420a-90e0-32131f3c07b8.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/text-or-bild/noch-einmal/index.html</link>
-            <guid isPermaLink="false">85b9b927-7a02-4ee2-8d2c-1491bb4a240f</guid>
-            <pubDate>Sat, 30 Apr 2016 20:15:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
