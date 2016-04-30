@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:56:19 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[journey without a train]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e73ba2b8-3133-42c6-be12-6a6eadb6d6d2.gif">]]></description>
+            <link>http://textbild.sturmpost.com/journey-without-a-train/index.html</link>
+            <guid isPermaLink="false">37ad4b48-ddbe-4176-bfd4-b91c54e5c975</guid>
+            <pubDate>Sat, 30 Apr 2016 21:55:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another Place]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e73552-3df5-481c-9a34-71af65919968.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/fast-schon-dezember/index.html</link>
             <guid isPermaLink="false">ae764661-0856-4848-8ed4-95cde986a523</guid>
             <pubDate>Sat, 30 Apr 2016 20:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Träume träumen]]></title>
-            <description><![CDATA[<p>Im Traum stirbt der traumlose Träumer. Die Uhr bleibt in der Tasche der Träumerin, schwer und zart. Erinnerung an ein Handgelenk, das nicht mehr ist. Tag um Tag. Jahr um Jahr. “Bewahr sie für mich, bis ich wiederkomme.” - “Ja, klar.” </p>]]></description>
-            <link>http://textbild.sturmpost.com/traume-traumen/index.html</link>
-            <guid isPermaLink="false">34c8d19d-7b45-4154-b322-1437eefe550a</guid>
-            <pubDate>Sat, 30 Apr 2016 20:41:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
