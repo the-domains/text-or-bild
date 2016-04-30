@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>https://thegrid.ai/text-or-bild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 19:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 19:57:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/text-or-bild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fühlfehler]]></title>
+            <description><![CDATA[<p>mein herz klopft wild </p>]]></description>
+            <link>https://thegrid.ai/text-or-bild/fuhlfehler/index.html</link>
+            <guid isPermaLink="false">1d81a1eb-c269-470a-9763-9c52b3ba40a9</guid>
+            <pubDate>Sat, 30 Apr 2016 19:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Noch einmal]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c025f2-b534-420a-90e0-32131f3c07b8.jpg" alt="" title="" />]]></description>
