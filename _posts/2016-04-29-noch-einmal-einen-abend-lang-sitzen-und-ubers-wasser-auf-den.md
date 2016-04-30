@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Noch einmal einen Abend lang sitzen und übers Wasser auf den Sonnenuntergang schauen, still, fast. Kühl wird es. Flugzeugschatten zuordnen und heimlich über die Sprüche der Ledernacktärsche grinsen. Ein zweites Bier bestellen, weil der Himmel so schön rot ist. Ideen spinnen, innen und außen. Solange durch die Brille in den Glutball schauen, bis innen auf den Lidern grüne Punkte tanzen. Das Feuer bewahren, und die Punkte auch. Bis es wieder wärmer wird.'
-datePublished: '2016-04-30T19:47:09.851Z'
-dateModified: '2016-04-30T19:43:25.199Z'
+datePublished: '2016-04-30T19:53:50.752Z'
+dateModified: '2016-04-30T19:53:35.912Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-29-noch-einmal-einen-abend-lang-sitzen-und-ubers-wasser-auf-den.md
 published: true
 authors: []
@@ -26,4 +28,6 @@ _type: Article
 
 Noch einmal einen Abend lang sitzen und übers Wasser auf den Sonnenuntergang schauen, still, fast. Kühl wird es. Flugzeugschatten zuordnen und heimlich über die Sprüche der Ledernacktärsche grinsen. Ein zweites Bier bestellen, weil der Himmel so schön rot ist. Ideen spinnen, innen und außen. Solange durch die Brille in den Glutball schauen, bis innen auf den Lidern grüne Punkte tanzen. Das Feuer bewahren, und die Punkte auch. Bis es wieder wärmer wird.
 
-&
+[&][0]
+
+[0]: https://open.spotify.com/track/4W94rW7HKZzwbiYRmeOpQS
