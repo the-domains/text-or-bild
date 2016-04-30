@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:50:18 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Place]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e73552-3df5-481c-9a34-71af65919968.jpg">]]></description>
+            <link>http://textbild.sturmpost.com/another-place/index.html</link>
+            <guid isPermaLink="false">8d8794d0-a570-469b-a4e6-10aa4794b4c3</guid>
+            <pubDate>Sat, 30 Apr 2016 21:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Play >]]></title>
             <description><![CDATA[<p>2 hochnäsige donnervögel, extra für mich. katzenglück schnurrt zusammengerollt ± draußen, noch verwirrt, erste zwitscherversuche. weißer kater leckt sich die pfote vor violettem haus. den wiesen hat man die decke weggeschmolzen. sie wirken verschlafen. vor dem bagger gähnt ein l°ch, eine krähe beschwert sich verhalten. die fahrscheine bitte. ein kriegs~schiff mit wohnwagen davor im nichts. </p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/traume-traumen/index.html</link>
             <guid isPermaLink="false">34c8d19d-7b45-4154-b322-1437eefe550a</guid>
             <pubDate>Sat, 30 Apr 2016 20:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicht fair?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf4ccf8-69d8-4094-90de-9403f3a6d87b.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/nicht-fair/index.html</link>
-            <guid isPermaLink="false">19836211-aa45-435c-b2bd-67e3c9084189</guid>
-            <pubDate>Sat, 30 Apr 2016 20:29:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
