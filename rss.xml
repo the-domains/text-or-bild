@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 22:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 23:00:36 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>kau gummi, automat. wie seltsam, du hast dich nicht veraendert. nur inflation. 1 kugel fuer 10 cent. 3 kugeln fuer 1 schilling.</p>]]></description>
+            <link>http://textbild.sturmpost.com/kau-gummi-automat-wie-seltsam-du-hast-dich-nicht-veraende/index.html</link>
+            <guid isPermaLink="false">9b61edca-d1e4-4b4f-b81e-2e0d63ce4019</guid>
+            <pubDate>Sat, 30 Apr 2016 22:59:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>wirf das foto nicht weg es ist ein moment unscharf unbeabsichtigt ohne form ohne inhalt</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/summer-in-the-city/index.html</link>
             <guid isPermaLink="false">bd3c2082-f34e-445a-9b64-63a2f1eca0ab</guid>
             <pubDate>Sat, 30 Apr 2016 21:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spirit on the Water]]></title>
-            <description><![CDATA[<p>Tagträume verschwimmen mit Nachtträumen, und beide hängen in der Luft. Wie gut das ist. Manchmal wachsen mir Flügel, und ich gleite dahin, über Wasser, über Land. Alles ist leicht, und ganz ohne Technik lache ich mit den Möwen, den fremden. Die Fremdheit ist schön.</p>]]></description>
-            <link>http://textbild.sturmpost.com/spirit-on-the-water/index.html</link>
-            <guid isPermaLink="false">29c5d16a-a168-4d8b-9ccf-914ff3aab111</guid>
-            <pubDate>Sat, 30 Apr 2016 21:17:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
