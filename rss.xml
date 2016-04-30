@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>https://thegrid.ai/text-or-bild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 20:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 20:36:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/text-or-bild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Träume träumen]]></title>
+            <description><![CDATA[<p>Im Traum stirbt der traumlose Träumer. Die Uhr bleibt in der Tasche der Träumerin, schwer und zart. Erinnerung an ein Handgelenk, das nicht mehr ist. Tag um Tag. Jahr um Jahr. “Bewahr sie für mich, bis ich wiederkomme.” - “Ja, klar.” </p>]]></description>
+            <link>https://thegrid.ai/text-or-bild/traume-traumen/index.html</link>
+            <guid isPermaLink="false">34c8d19d-7b45-4154-b322-1437eefe550a</guid>
+            <pubDate>Sat, 30 Apr 2016 20:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nicht fair?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf4ccf8-69d8-4094-90de-9403f3a6d87b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/text-or-bild/invers/index.html</link>
             <guid isPermaLink="false">b19a82dd-be8a-43ce-9a40-e605677e8ea2</guid>
             <pubDate>Sat, 30 Apr 2016 19:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feuerherz]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d26adb-d3fa-4794-8bc5-5f12a7f5dbc2.jpg">]]></description>
-            <link>https://thegrid.ai/text-or-bild/feuerherz/index.html</link>
-            <guid isPermaLink="false">b580c46c-dcc3-461b-afb8-43ae49c666c6</guid>
-            <pubDate>Sat, 30 Apr 2016 19:14:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
