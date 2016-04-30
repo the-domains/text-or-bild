@@ -1,0 +1,28 @@
+name: 'text|bild'
+favicon: null
+layout_spectrum: 0.8178924801759422
+typography_spectrum: 0.6794757966417819
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1390113669913262
+  lightness: 0.4933990160934627
+  saturation: 0.9130370619241148
+  rhythmicContrast: 0.9747232121881098
+purpose: []
