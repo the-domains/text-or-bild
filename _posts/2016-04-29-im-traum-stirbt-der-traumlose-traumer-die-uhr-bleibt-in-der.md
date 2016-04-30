@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Im Traum stirbt der traumlose Träumer. Die Uhr bleibt in der Tasche der Träumerin, schwer und zart. Erinnerung an ein Handgelenk, das nicht mehr ist. Tag um Tag. Jahr um Jahr. “Bewahr sie für mich, bis ich wiederkomme.” - “Ja, klar.” '
-datePublished: '2016-04-30T20:37:30.557Z'
-dateModified: '2016-04-30T20:35:36.999Z'
+datePublished: '2016-04-30T20:39:20.140Z'
+dateModified: '2016-04-30T20:37:38.869Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-im-traum-stirbt-der-traumlose-traumer-die-uhr-bleibt-in-der.md
