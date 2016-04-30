@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Ein optisch-lyrisches Experiment. Ständiges Work in Progress. Verantwortlich und Rechteinhaberin: Andrea Sturm'
-datePublished: '2016-04-30T19:17:47.249Z'
-dateModified: '2016-04-30T08:56:34.019Z'
+datePublished: '2016-04-30T19:18:45.743Z'
+dateModified: '2016-04-30T19:17:52.165Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-ein-optisch-lyrisches-experiment-standiges-work-in-progress.md
