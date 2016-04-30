@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sonne, gnadenlose, wunderbare Sonne, kommt von überall, vom Himmel zuerst; lacht, zärtlich im Ansatz, dann härter, zornig und gnadenlos im Meridian, später sinkt sie und verzieht den Lichtmund, zynisch vielleicht… spiegelt spätnoch im Wasser, das einnehmend aufgischtet - durchleuchtet, aber nicht durchschaubar: flüssiger Kristall;; Sonne: prallt ab vom menschenfremden Metall, von den Mauern, die Licht schlucken, Wärme aber wiedergeben bis spät in die Nacht. Sonne: nährt mein beinah menschenleeres Feuerherz bis weit in den schlaflosen Morgen.'
-datePublished: '2016-04-30T19:10:38.218Z'
-dateModified: '2016-04-30T19:09:43.620Z'
+datePublished: '2016-04-30T19:12:28.315Z'
+dateModified: '2016-04-30T19:10:41.249Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-feuerherz.md
