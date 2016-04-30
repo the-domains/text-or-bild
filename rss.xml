@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>https://thegrid.ai/text-or-bild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 20:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 20:29:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/text-or-bild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nicht fair?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf4ccf8-69d8-4094-90de-9403f3a6d87b.jpg">]]></description>
+            <link>https://thegrid.ai/text-or-bild/nicht-fair/index.html</link>
+            <guid isPermaLink="false">19836211-aa45-435c-b2bd-67e3c9084189</guid>
+            <pubDate>Sat, 30 Apr 2016 20:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Möwenschwalbe]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09e334f3-1370-4955-8b9c-e767f8c01633.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/text-or-bild/feuerherz/index.html</link>
             <guid isPermaLink="false">b580c46c-dcc3-461b-afb8-43ae49c666c6</guid>
             <pubDate>Sat, 30 Apr 2016 19:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pixelhölle]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a7eb5a3-db5e-4c72-b5d3-6989e9d75b48.jpg">]]></description>
-            <link>https://thegrid.ai/text-or-bild/pixelholle/index.html</link>
-            <guid isPermaLink="false">adf27b88-c8fc-4485-afc4-b7b39e7c2071</guid>
-            <pubDate>Sat, 30 Apr 2016 19:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
