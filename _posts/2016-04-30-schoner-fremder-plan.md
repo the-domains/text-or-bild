@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ein kleines Stück Strand zwischen Cafe und Lagerhallen… die Wellen grau und kühl… weit draußen ankert die Sonne… warmes Licht und Stimmengewirr aus dem offenen Fenster… der Tross zieht vorbei… in den alten Hallen moderne Büros, groß und hell… Zeichentische… am Gang, ich suche ein Telefon… eine Hand auf meiner Schulter, die Stimme… “ach, Unsinn, schau mich doch an”, meine Frisur in einem Spiegel… “es ist nicht deine Frisur, es ist…” man ruft nach ihm… Lippen, zum ersten Mal… flüchtiges Siegel… unmöglich! - kein Zweifel mehr… das Telefon ruft in die andere Stadt… Zwielicht in der Limousine… allein mit diesem Bild auf meiner Haut… später, beim Hafenfest vielleicht… es gibt Zeit…'
-datePublished: '2016-04-30T17:05:49.794Z'
-dateModified: '2016-04-30T17:04:36.423Z'
+datePublished: '2016-04-30T17:09:36.679Z'
+dateModified: '2016-04-30T17:05:53.125Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-30-schoner-fremder-plan.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-schoner-fremder-plan.md
-published: true
 url: schoner-fremder-plan/index.html
 _type: Article
 
