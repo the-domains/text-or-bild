@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>https://thegrid.ai/text-or-bild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:38:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/text-or-bild/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herbstwinter]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b3d8d0-651f-4dc9-b41c-d99047cc3f1f.jpg">]]></description>
+            <link>https://thegrid.ai/text-or-bild/herbstwinter/index.html</link>
+            <guid isPermaLink="false">7aeec183-b9d3-4957-9fc5-e933b5a413e3</guid>
+            <pubDate>Sat, 30 Apr 2016 21:37:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11:17]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723ec2ba-9c7d-4bf1-8c96-1b2c1ab63f71.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/text-or-bild/mowenschwalbe/index.html</link>
             <guid isPermaLink="false">9cca07bf-3795-4208-9851-586218d4f7b7</guid>
             <pubDate>Sat, 30 Apr 2016 20:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farbspiele]]></title>
-            <description><![CDATA[<p>Herbstwelt in Rot und Grün, und trotzdem überall viel Blau. Sofern es nicht im Sepia versinkt. Für richtiges Ahnen, nicht kleinlich, Fahrtglück - und richtige Tunes. Anderswo, derweil, macht etwas mir Angst. Was nicht gut ist. Obwohl alles gut ist. Das Aufatmen dann, als die Schwalbe verschwindet. Ohne Grund. Genau so wie sie kam. </p>]]></description>
-            <link>https://thegrid.ai/text-or-bild/farbspiele/index.html</link>
-            <guid isPermaLink="false">abda41fc-5c69-4e93-9d1e-7859d0411773</guid>
-            <pubDate>Sat, 30 Apr 2016 20:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
