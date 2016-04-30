@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'mein herz klopft wild '
-datePublished: '2016-04-30T19:57:29.166Z'
-dateModified: '2016-04-30T19:57:06.165Z'
+datePublished: '2016-04-30T19:59:39.397Z'
+dateModified: '2016-04-30T19:59:26.442Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-fuhlfehler.md
@@ -41,5 +41,3 @@ nicht zu verlieren
 __
 
 __
-
-_Foto: (c) RMAX / iStock_
