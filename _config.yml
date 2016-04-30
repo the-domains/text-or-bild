@@ -1,6 +1,6 @@
 name: 'text|bild'
 favicon: null
-layout_spectrum: 0.8178924801759422
+layout_spectrum: 0.71434
 typography_spectrum: 0.6794757966417819
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1390113669913262
-  lightness: 0.4933990160934627
-  saturation: 0.9130370619241148
-  rhythmicContrast: 0.9747232121881098
+  brandStrength: 0
+  lightness: 0.0625
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
