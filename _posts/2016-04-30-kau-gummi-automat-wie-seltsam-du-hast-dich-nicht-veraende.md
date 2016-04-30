@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'kau gummi, automat. wie seltsam, du hast dich nicht veraendert. nur inflation. 1 kugel fuer 10 cent. 3 kugeln fuer 1 schilling.'
-datePublished: '2016-04-30T23:02:17.752Z'
-dateModified: '2016-04-30T22:59:13.961Z'
+datePublished: '2016-04-30T23:49:04.927Z'
+dateModified: '2016-04-30T23:02:26.482Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-kau-gummi-automat-wie-seltsam-du-hast-dich-nicht-veraende.md
