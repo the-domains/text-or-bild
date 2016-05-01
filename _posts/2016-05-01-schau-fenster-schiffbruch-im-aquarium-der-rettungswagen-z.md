@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'schau, fenster. schiffbruch im aquarium. der rettungswagen zu spaet. viertel nach zwei statt fuenf vor zwoelf. dahinter schon plastiktulpen fuer das grab.'
-datePublished: '2016-05-01T10:11:50.936Z'
-dateModified: '2016-05-01T10:11:18.258Z'
+datePublished: '2016-05-01T10:16:34.870Z'
+dateModified: '2016-05-01T10:11:56.521Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z.md
-published: true
 url: schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z/index.html
 _type: Article
 
