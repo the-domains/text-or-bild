@@ -1,23 +1,18 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-05-01T10:31:06.315Z'
+datePublished: '2016-05-01T10:31:15.293Z'
 hasPage: true
+inFeed: true
 inNav: false
-inLanguage: null
 keywords: []
+publisher: {}
+title: schau.fenster
 description: 'schau, fenster. schiffbruch im aquarium. der rettungswagen zu spaet. viertel nach zwei statt fuenf vor zwoelf. dahinter schon plastiktulpen fuer das grab.'
-datePublished: '2016-05-01T10:16:34.870Z'
-dateModified: '2016-05-01T10:11:56.521Z'
-title: ''
 author: []
+starred: false
 sourcePath: _posts/2016-05-01-schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 url: schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z/index.html
 _type: Article
 
