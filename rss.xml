@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 08:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:02:45 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>muede so muede heute kein wunder ist ja fruehling sagen die menschen aber die haben ja keine ahnung wie das ist fuer mich / auf und unter und auf und unter tag fuer tag jahr fuer jahr / was man da muede wird kann sich gar keiner vorstellen ich soll nur immer strahlen leuchten waermen und fuer sie da sein / wer ist denn fuer mich da frage ich mich / und dabei bin ich so muede selbst zum untergehen zu muede / ich leg mich jetzt in diese astgabel und ruh mich aus</p>]]></description>
+            <link>http://textbild.sturmpost.com/muede-so-muede-heute-kein-wunder-ist-ja-fruehling-sagen-die/index.html</link>
+            <guid isPermaLink="false">33ef6e6a-c025-49d9-a430-e608e0e81b59</guid>
+            <pubDate>Sun, 01 May 2016 09:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nass]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f96ec9-d46a-4a6d-89d1-275a0051abe5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/herbstwinter/index.html</link>
             <guid isPermaLink="false">7aeec183-b9d3-4957-9fc5-e933b5a413e3</guid>
             <pubDate>Sat, 30 Apr 2016 21:37:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11:17]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723ec2ba-9c7d-4bf1-8c96-1b2c1ab63f71.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/1117/index.html</link>
-            <guid isPermaLink="false">aa2c5e68-7f82-454e-b59a-c3301f2f421c</guid>
-            <pubDate>Sat, 30 Apr 2016 21:26:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
