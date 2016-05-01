@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:08:59 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[body]]></title>
+            <description><![CDATA[<p>konzentrieren wir uns auf das wesentliche, meine damen. was ist denn schon dabei, wenn man den kopf verliert. mit dem kopf kommen wir ohnehin nirgends hin. hoechstens durch die wand. und das tut weh.</p>]]></description>
+            <link>http://textbild.sturmpost.com/body/index.html</link>
+            <guid isPermaLink="false">1e996c04-0aa4-4147-a70c-a180e746c615</guid>
+            <pubDate>Sun, 01 May 2016 09:08:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>muede so muede heute kein wunder ist ja fruehling sagen die menschen aber die haben ja keine ahnung wie das ist fuer mich / auf und unter und auf und unter tag fuer tag jahr fuer jahr / was man da muede wird kann sich gar keiner vorstellen ich soll nur immer strahlen leuchten waermen und fuer sie da sein / wer ist denn fuer mich da frage ich mich / und dabei bin ich so muede selbst zum untergehen zu muede / ich leg mich jetzt in diese astgabel und ruh mich aus</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/play-greater/index.html</link>
             <guid isPermaLink="false">29a5891d-9a0c-4e3f-b119-34de6c88123c</guid>
             <pubDate>Sat, 30 Apr 2016 21:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herbstwinter]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b3d8d0-651f-4dc9-b41c-d99047cc3f1f.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/herbstwinter/index.html</link>
-            <guid isPermaLink="false">7aeec183-b9d3-4957-9fc5-e933b5a413e3</guid>
-            <pubDate>Sat, 30 Apr 2016 21:37:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
