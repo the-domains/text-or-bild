@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 11:05:11 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ende ohne Anfang]]></title>
+            <description><![CDATA[<article><h1>Ende ohne Anfang</h1><p>Ein Motor des großen Flugzeugs hustet schwarzen Rauch. Die Kamera kühl in meiner Hand, kühl aber schwer. “Sie müssen jetzt umkehren…” aber sie kehren nicht um. Schießen, ohne sich um den brennenden Motor zu kümmern. Erde spritzt auf, kleine Steine. Ein scharfer Schmerz, mein Arm ist fremd geworden. Ich ziele mit der Kamera, als könnte sie uns retten. Eine winzige Blume, Wüstenblume, blüht neben deinem Schuh. Mein Kopf ganz leicht. Gleich lege ich mich zu dir.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7722d612e579b7ccd9b93fb0556161c65dbb084d.jpg"></article>]]></description>
+            <link>http://textbild.sturmpost.com/ein-motor-des-grossen-flugzeugs-hustet-schwarzen-rauch-die-k/index.html</link>
+            <guid isPermaLink="false">6f66b2cc-0834-45bc-b973-d0381d24b656</guid>
+            <pubDate>Sun, 01 May 2016 11:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[schau.fenster]]></title>
             <description><![CDATA[<article><h1>schau.fenster</h1><p>schau, fenster. schiffbruch im aquarium. der rettungswagen zu spaet. viertel nach zwei statt fuenf vor zwoelf. dahinter schon plastiktulpen fuer das grab.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ddc0c5-5e4c-4489-bf0e-94b6f4f7cf29.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/schau-ruhig-zurueck-aus-der-geschichte-kann-man-lernen/index.html</link>
             <guid isPermaLink="false">0f3e9909-5c9e-4308-9a57-228b4a033f2a</guid>
             <pubDate>Sun, 01 May 2016 08:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[moment]]></title>
-            <description><![CDATA[<article><h1>moment</h1><p>wirf das foto nicht weg es ist ein moment unscharf unbeabsichtigt ohne form ohne inhalt</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3dc882d-b760-4913-9158-2d8beaeb3821.jpg"></article>]]></description>
-            <link>http://textbild.sturmpost.com/wirf-das-foto-nicht-weg-es-ist-ein-moment-unscharf-unbeabsic/index.html</link>
-            <guid isPermaLink="false">5b78370c-cbdf-431c-a0ae-044384d13ffc</guid>
-            <pubDate>Sun, 01 May 2016 08:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
