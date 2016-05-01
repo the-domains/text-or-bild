@@ -1,20 +1,15 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'still war es, und /fried/lich. draussen und drin.'
-datePublished: '2016-05-01T09:28:22.914Z'
-dateModified: '2016-05-01T09:28:09.096Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-01T09:41:47.521Z'
+datePublished: '2016-05-01T09:41:56.719Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: spiegelsee
+description: 'still war es, und /fried/lich. draussen und drin.'
+author: []
 starred: false
 sourcePath: _posts/2016-05-01-still-war-es-und-friedlich-draussen-und-drin.md
 published: true
