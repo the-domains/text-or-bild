@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 08:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 08:57:11 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nass]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f96ec9-d46a-4a6d-89d1-275a0051abe5.jpg">]]></description>
+            <link>http://textbild.sturmpost.com/nass/index.html</link>
+            <guid isPermaLink="false">cc287863-803b-45ce-8478-b36e7c6af5c7</guid>
+            <pubDate>Sun, 01 May 2016 08:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zurück]]></title>
             <description><![CDATA[<article><h1>zurück</h1><p>schau ruhig. zurueck. aus der geschichte. kann man lernen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc55c64-ab87-4d66-a652-08c25558f381.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/1117/index.html</link>
             <guid isPermaLink="false">aa2c5e68-7f82-454e-b59a-c3301f2f421c</guid>
             <pubDate>Sat, 30 Apr 2016 21:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer in the City]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2628f3f6-70fa-48ee-bd56-259134251503.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/summer-in-the-city/index.html</link>
-            <guid isPermaLink="false">bd3c2082-f34e-445a-9b64-63a2f1eca0ab</guid>
-            <pubDate>Sat, 30 Apr 2016 21:20:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
