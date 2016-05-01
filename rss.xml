@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 10:12:26 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>schau, fenster. schiffbruch im aquarium. der rettungswagen zu spaet. viertel nach zwei statt fuenf vor zwoelf. dahinter schon plastiktulpen fuer das grab.</p>]]></description>
+            <link>http://textbild.sturmpost.com/schau-fenster-schiffbruch-im-aquarium-der-rettungswagen-z/index.html</link>
+            <guid isPermaLink="false">b60a05f7-7ec5-4834-bb24-35587513e7e8</guid>
+            <pubDate>Sun, 01 May 2016 10:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[erweichen]]></title>
             <description><![CDATA[<article><h1>erweichen</h1><p>stein schreit zum himmel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c61136f1e6b209c47cd981378c3063db95584df.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/wirf-das-foto-nicht-weg-es-ist-ein-moment-unscharf-unbeabsic/index.html</link>
             <guid isPermaLink="false">5b78370c-cbdf-431c-a0ae-044384d13ffc</guid>
             <pubDate>Sun, 01 May 2016 08:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automat]]></title>
-            <description><![CDATA[<article><h1>Automat</h1><p>kau gummi, automat. wie seltsam, du hast dich nicht veraendert. nur inflation. 1 kugel fuer 10 cent. 3 kugeln fuer 1 schilling.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69b9f0a8-c566-49cb-93ba-8189e6a0be05.jpg"></article>]]></description>
-            <link>http://textbild.sturmpost.com/kau-gummi-automat-wie-seltsam-du-hast-dich-nicht-veraende/index.html</link>
-            <guid isPermaLink="false">9b61edca-d1e4-4b4f-b81e-2e0d63ce4019</guid>
-            <pubDate>Sun, 01 May 2016 08:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
