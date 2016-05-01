@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 11:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 12:18:16 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bild|wort 23.5.2014]]></title>
+            <description><![CDATA[<article><h1>bild|wort 23.5.2014</h1><p>Nach langem wieder einmal ein Versuch in Sachen Videoblogging.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=k0d1_VUtL8E&amp;index=3&amp;list=PLht6Bc_3qohRbyCEgqsypZUykuXQQxvnL</link>
+            <guid isPermaLink="false">9a17cb71-6d1e-4caf-a0ff-af239a6ee30c</guid>
+            <pubDate>Sun, 01 May 2016 12:17:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ende ohne Anfang]]></title>
             <description><![CDATA[<article><h1>Ende ohne Anfang</h1><p>Ein Motor des großen Flugzeugs hustet schwarzen Rauch. Die Kamera kühl in meiner Hand, kühl aber schwer. “Sie müssen jetzt umkehren…” aber sie kehren nicht um. Schießen, ohne sich um den brennenden Motor zu kümmern. Erde spritzt auf, kleine Steine. Ein scharfer Schmerz, mein Arm ist fremd geworden. Ich ziele mit der Kamera, als könnte sie uns retten. Eine winzige Blume, Wüstenblume, blüht neben deinem Schuh. Mein Kopf ganz leicht. Gleich lege ich mich zu dir.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7722d612e579b7ccd9b93fb0556161c65dbb084d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/nass/index.html</link>
             <guid isPermaLink="false">cc287863-803b-45ce-8478-b36e7c6af5c7</guid>
             <pubDate>Sun, 01 May 2016 08:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zurück]]></title>
-            <description><![CDATA[<article><h1>zurück</h1><p>schau ruhig. zurueck. aus der geschichte. kann man lernen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc55c64-ab87-4d66-a652-08c25558f381.jpg"></article>]]></description>
-            <link>http://textbild.sturmpost.com/schau-ruhig-zurueck-aus-der-geschichte-kann-man-lernen/index.html</link>
-            <guid isPermaLink="false">0f3e9909-5c9e-4308-9a57-228b4a033f2a</guid>
-            <pubDate>Sun, 01 May 2016 08:53:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
