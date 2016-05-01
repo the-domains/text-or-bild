@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:56:44 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>stein schreit zum himmel. </p>]]></description>
+            <link>http://textbild.sturmpost.com/stein-schreit-zum-himmel/index.html</link>
+            <guid isPermaLink="false">4a0c18d7-0c87-45b9-b77f-b2d85d9c3397</guid>
+            <pubDate>Sun, 01 May 2016 09:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[durch. halten.]]></title>
             <description><![CDATA[<article><h1>durch. halten.</h1><p>da muessen wir durch. koste. es. wolle/n. oder nicht.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d52069f-8c1d-40d2-a3d4-7b5832a1f01e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/kau-gummi-automat-wie-seltsam-du-hast-dich-nicht-veraende/index.html</link>
             <guid isPermaLink="false">9b61edca-d1e4-4b4f-b81e-2e0d63ce4019</guid>
             <pubDate>Sun, 01 May 2016 08:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/030a391d-7b14-4eda-9b1a-1785b209f471.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/blue/index.html</link>
-            <guid isPermaLink="false">7b2409f6-9cdd-4dfd-828d-13462acc63ab</guid>
-            <pubDate>Sat, 30 Apr 2016 22:01:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
