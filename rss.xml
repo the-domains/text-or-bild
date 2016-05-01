@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 12:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 15:56:02 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[once upon a time]]></title>
+            <description><![CDATA[<p>“Hab ich es verdorben?” fragt sie. Den Hörer hat er eben erst aufgelegt. Ihre Hand an seinem Rücken. “Nein…” sagt er, “...nein”. Ist nicht ganz sicher. Nichts ist sicher, jetzt. “Ich wollte doch nur…” sie spricht nicht weiter. “vernünftig sein” ist nichts für den Moment. Er lehnt sich zurück. Die lange Narbe unter dem hochgerutschten Hemd; “nicht erschrecken…” versucht er. “Alles an dir ist schön…” pariert sie. Zwei zarte Finger verfolgen die weiße Linie, leicht. Einfacher als jede andere Berührung, seit dieser letzten: deshalb. - sie wissen es beide. Wissen aber nicht weiter. </p>]]></description>
+            <link>http://textbild.sturmpost.com/once-upon-a-time/index.html</link>
+            <guid isPermaLink="false">cbf984f0-b961-41c8-8d47-9dc09c3b2b97</guid>
+            <pubDate>Sun, 01 May 2016 15:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bild|wort 23.5.2014]]></title>
             <description><![CDATA[<article><h1>bild|wort 23.5.2014</h1><p>Nach langem wieder einmal ein Versuch in Sachen Videoblogging.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb95c7ad067a1c9bf82d0648431abff0aaec97cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/body/index.html</link>
             <guid isPermaLink="false">1e996c04-0aa4-4147-a70c-a180e746c615</guid>
             <pubDate>Sun, 01 May 2016 09:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nass]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f96ec9-d46a-4a6d-89d1-275a0051abe5.jpg">]]></description>
-            <link>http://textbild.sturmpost.com/nass/index.html</link>
-            <guid isPermaLink="false">cc287863-803b-45ce-8478-b36e7c6af5c7</guid>
-            <pubDate>Sun, 01 May 2016 08:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
