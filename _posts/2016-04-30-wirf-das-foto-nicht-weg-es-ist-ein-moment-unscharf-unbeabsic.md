@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: wirf das foto nicht weg es ist ein moment unscharf unbeabsichtigt ohne form ohne inhalt
-datePublished: '2016-04-30T22:49:14.602Z'
-dateModified: '2016-04-30T22:49:00.069Z'
+datePublished: '2016-05-01T08:39:32.664Z'
+dateModified: '2016-04-30T22:49:15.757Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-wirf-das-foto-nicht-weg-es-ist-ein-moment-unscharf-unbeabsic.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-wirf-das-foto-nicht-weg-es-ist-ein-moment-unscharf-unbeabsic.md
-published: true
 url: wirf-das-foto-nicht-weg-es-ist-ein-moment-unscharf-unbeabsic/index.html
 _type: Article
 
