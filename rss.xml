@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 15:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 22:25:15 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Feuer & Eis]]></title>
+            <description><![CDATA[<p>Manchmal ist das Leben scharf und klar wie ein Sprung ins Kaltwasserbecken. Dann wieder verwischt und verwirbelt wie die Luft über einem Feuer. </p>]]></description>
+            <link>http://textbild.sturmpost.com/feuer-and-eis/index.html</link>
+            <guid isPermaLink="false">0538f9fa-9ff9-44fb-958f-8b25928ab563</guid>
+            <pubDate>Mon, 02 May 2016 22:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[once upon a time]]></title>
             <description><![CDATA[<p>“Hab ich es verdorben?” fragt sie. Den Hörer hat er eben erst aufgelegt. Ihre Hand an seinem Rücken. “Nein…” sagt er, “...nein”. Ist nicht ganz sicher. Nichts ist sicher, jetzt. “Ich wollte doch nur…” sie spricht nicht weiter. “vernünftig sein” ist nichts für den Moment. Er lehnt sich zurück. Die lange Narbe unter dem hochgerutschten Hemd; “nicht erschrecken…” versucht er. “Alles an dir ist schön…” pariert sie. Zwei zarte Finger verfolgen die weiße Linie, leicht. Einfacher als jede andere Berührung, seit dieser letzten: deshalb. - sie wissen es beide. Wissen aber nicht weiter. </p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/muede-so-muede-heute-kein-wunder-ist-ja-fruehling-sagen-die/index.html</link>
             <guid isPermaLink="false">33ef6e6a-c025-49d9-a430-e608e0e81b59</guid>
             <pubDate>Sun, 01 May 2016 09:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[body]]></title>
-            <description><![CDATA[<p>konzentrieren wir uns auf das wesentliche, meine damen. was ist denn schon dabei, wenn man den kopf verliert. mit dem kopf kommen wir ohnehin nirgends hin. hoechstens durch die wand. und das tut weh.</p>]]></description>
-            <link>http://textbild.sturmpost.com/body/index.html</link>
-            <guid isPermaLink="false">1e996c04-0aa4-4147-a70c-a180e746c615</guid>
-            <pubDate>Sun, 01 May 2016 09:14:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
