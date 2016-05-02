@@ -1,18 +1,23 @@
 ---
-authors: []
-dateModified: '2016-05-02T23:14:12.600Z'
-datePublished: '2016-05-02T23:14:32.536Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
-publisher: {}
-title: 'Feuer & Eis'
 description: Manchmal ist das Leben scharf und klar wie ein Sprung ins Kaltwasserbecken. Dann wieder verwischt und verwirbelt wie die Luft über einem Feuer.
+datePublished: '2016-05-02T23:23:41.609Z'
+dateModified: '2016-05-02T23:23:30.722Z'
+title: 'Feuer & Eis'
 author: []
-starred: false
 sourcePath: _posts/2016-05-02-feuer-and-eis.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: feuer-and-eis/index.html
 _type: Article
 
@@ -26,7 +31,3 @@ Sich davonstehlen. Durch die laue Frühlingsluft. Zigaretten holen gehen und nie
 Wie konnte ich nur jemals einen laufenden Fernseher ertragen?
 
 3.5.2001
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e39dd96-de5b-4282-87a8-295118ed1b11.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e157d7-24e7-4c4e-8a73-4957803ebe06.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b19979-b42e-4ae7-aa49-7d8fd850c2cf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9483884-c660-4178-a5ad-e734a511da7f.jpg)
