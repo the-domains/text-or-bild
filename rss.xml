@@ -4,8 +4,15 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 19:57:32 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[seelensplitter]]></title>
+            <description><![CDATA[<p>Ein Lachen, das lieber Weinen sein möchte. Konzentration. Darf das Lachen nicht verlieren. Verliert das Lachen nicht. Ich kann nicht hinschauen. Kann nicht wegschauen. Die Worte, wenn man sie doch einmal braucht: alle falsch.</p>]]></description>
+            <link>http://textbild.sturmpost.com/seelensplitter/index.html</link>
+            <guid isPermaLink="false">75bc6734-effb-4654-a46f-2821ff0a21d0</guid>
+            <pubDate>Wed, 04 May 2016 19:56:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Feuer & Eis]]></title>
             <description><![CDATA[<article><h1>Feuer & Eis</h1><p>Manchmal ist das Leben scharf und klar wie ein Sprung ins Kaltwasserbecken. Dann wieder verwischt und verwirbelt wie die Luft über einem Feuer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c883d07-7178-4aea-8b27-18f3ba17dc01.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/jetzt-steh-ich-schon-hier-eine-stunde-nichts-los-heute-d/index.html</link>
             <guid isPermaLink="false">6e99641c-a30e-49df-b6b8-1c966c456a2a</guid>
             <pubDate>Sun, 01 May 2016 09:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sonnenbett]]></title>
-            <description><![CDATA[<p>muede so muede heute kein wunder ist ja fruehling sagen die menschen aber die haben ja keine ahnung wie das ist fuer mich / auf und unter und auf und unter tag fuer tag jahr fuer jahr / was man da muede wird kann sich gar keiner vorstellen ich soll nur immer strahlen leuchten waermen und fuer sie da sein / wer ist denn fuer mich da frage ich mich / und dabei bin ich so muede selbst zum untergehen zu muede / ich leg mich jetzt in diese astgabel und ruh mich aus</p>]]></description>
-            <link>http://textbild.sturmpost.com/muede-so-muede-heute-kein-wunder-ist-ja-fruehling-sagen-die/index.html</link>
-            <guid isPermaLink="false">33ef6e6a-c025-49d9-a430-e608e0e81b59</guid>
-            <pubDate>Sun, 01 May 2016 09:18:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
