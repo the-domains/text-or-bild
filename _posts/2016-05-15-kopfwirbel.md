@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: good night sweet dream
-datePublished: '2016-05-15T15:50:11.064Z'
-dateModified: '2016-05-15T15:49:51.332Z'
+datePublished: '2016-05-15T15:50:50.907Z'
+dateModified: '2016-05-15T15:50:15.838Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-kopfwirbel.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-kopfwirbel.md
 url: kopfwirbel/index.html
 _type: Article
 
