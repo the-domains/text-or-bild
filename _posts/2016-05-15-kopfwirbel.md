@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '200km/ h am boden und | 1200 in der luft wirbel im kopf. im herzen. kalt.'
-datePublished: '2016-05-15T16:07:47.485Z'
-dateModified: '2016-05-15T16:07:38.593Z'
+datePublished: '2016-05-15T16:17:23.803Z'
+dateModified: '2016-05-15T16:17:23.301Z'
 title: wirr.kopf
 author:
   - name: ''
@@ -28,14 +28,14 @@ _type: Article
 200km/ h am boden und | 1200 in der luft  
 wirbel im kopf. im herzen. kalt.
 
-gefunden|verloren ~ mich|dich  
+gefudnen lalala gefunden|verloren ~ mich|dich  
 zu hart. zu zart. zu. ich. du.
 
-con~trust  
+keinecapsbitte con~trust  
 ton~wert~kurve  
 s~w
 
-für den moment  
+hierauchnicht für den moment  
 : gut : weich : normal :  
 bleibt nur die flucht  
 um zu vergessen  
@@ -49,5 +49,7 @@ jenseits der traumgrenze
 stille. vertrautheit. ohne. empfang.
 
 [good night sweet dream][0]
+
+_20160515_
 
 [0]: https://www.youtube.com/watch?v=_VG_zGIss8c
