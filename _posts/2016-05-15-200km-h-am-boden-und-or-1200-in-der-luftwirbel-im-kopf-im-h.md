@@ -1,17 +1,24 @@
 ---
-authors: []
-dateModified: '2016-05-15T16:30:15.694Z'
-datePublished: '2016-05-15T16:30:25.976Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
-publisher: {}
-title: wirr.kopf
 description: '200km/ h am boden und | 1200 in der luft wirbel im kopf. im herzen. kalt.'
-author: []
-starred: false
+datePublished: '2016-05-15T16:37:33.339Z'
+dateModified: '2016-05-15T16:32:23.133Z'
+title: wirr.kopf
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-15-200km-h-am-boden-und-or-1200-in-der-luftwirbel-im-kopf-im-h.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: 200km-h-am-boden-und-or-1200-in-der-luftwirbel-im-kopf-im-h/index.html
 _type: Article
 
