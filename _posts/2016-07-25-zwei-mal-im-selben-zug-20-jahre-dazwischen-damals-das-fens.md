@@ -1,19 +1,15 @@
 ---
-datePublished: '2016-07-25T22:53:34.485Z'
+datePublished: '2016-08-28T10:06:18.016Z'
 sourcePath: >-
   _posts/2016-07-25-zwei-mal-im-selben-zug-20-jahre-dazwischen-damals-das-fens.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3026d454-ba9b-4e83-bf2f-8b8b94f32fda.jpg
 author: []
 via: {}
-dateModified: '2016-07-25T22:53:34.027Z'
+dateModified: '2016-08-28T10:06:17.528Z'
 title: Öresund
 publisher: {}
-description: >-
-  zwei mal im selben zug. 20 jahre dazwischen. eine brücke, wo die fähre war.
-  damals das fenster offen, nein heute geht das nicht mehr. aber die musik.
-  dieselbe. so viele tränen. müde und schlaflos. nur das tröstliche gefühl der
-  räder auf den schienen.
+description: ''
 starred: false
 inFeed: true
 hasPage: false
