@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T11:39:23.951Z'
+datePublished: '2016-08-28T11:53:18.046Z'
+sourcePath: _posts/2016-08-28-augustmond-vollhalbleer.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T11:39:03.359Z'
+dateModified: '2016-08-28T11:53:17.419Z'
 title: Augustmond VollHalbLeer
 publisher: {}
-description: 'nachTtage, strukturlos mitOhne LichtLuftLeben inMir umMich anMirvorbei '
+description: 'nachTtage, strukturlos mitOhne LichtLuftLeben inMir umMich anMirvorbei'
 starred: false
-sourcePath: _posts/2016-08-28-augustmond-vollhalbleer.md
 _type: Blurb
 
 ---
@@ -57,3 +57,5 @@ dieses endlose heute
 wird morgen  
 ein schönes gestern  
 gewesen sein
+
+_20160828_
