@@ -4,21 +4,28 @@
         <description><![CDATA[text|bild]]></description>
         <link>http://textbild.sturmpost.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 11:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 11:29:13 GMT</lastBuildDate>
         <atom:link href="http://textbild.sturmpost.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[wirr.kopf]]></title>
+            <description><![CDATA[<article><h1>wirr.kopf</h1><p>200km/ h am boden und | 1200 in der luftwirbel im kopf. im herzen. kalt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc6306aa1524c26ba5406c5736e50d5a16dad71e.jpg"></article>]]></description>
+            <link>http://textbild.sturmpost.com/200km-h-am-boden-und-or-1200-in-der-luftwirbel-im-kopf-im-h/index.html</link>
+            <guid isPermaLink="false">792cf488-93af-45f0-85d6-68daae363cbb</guid>
+            <pubDate>Mon, 29 Aug 2016 11:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Augustmond VollHalbLeer]]></title>
+            <description><![CDATA[<article><h1>Augustmond VollHalbLeer</h1><p>nachTtage, strukturlosmitOhne LichtLuftLebeninMir umMich anMirvorbei</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21372722-38cd-4114-bab6-38887beb37a7.jpg"></article>]]></description>
+            <link>http://textbild.sturmpost.com/augustmond-vollhalbleer/index.html</link>
+            <guid isPermaLink="false">916d98bb-2fb1-43b2-830d-caca5ba9aaf1</guid>
+            <pubDate>Mon, 29 Aug 2016 06:29:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Öresund]]></title>
             <description><![CDATA[<article><h1>Öresund</h1><p>zwei mal im selben zug. 20 jahre dazwischen. eine brücke, wo die fähre war. damals das fenster offen, nein heute geht das nicht mehr. aber die musik. dieselbe. so viele tränen. müde und schlaflos. nur das tröstliche gefühl der räder auf den schienen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3026d454-ba9b-4e83-bf2f-8b8b94f32fda.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3026d454-ba9b-4e83-bf2f-8b8b94f32fda.jpg</link>
             <guid isPermaLink="false">4940a1d2-d9eb-4105-aadc-6ad429443a57</guid>
             <pubDate>Sun, 28 Aug 2016 11:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wirr.kopf]]></title>
-            <description><![CDATA[<article><h1>wirr.kopf</h1><p>200km/ h am boden und | 1200 in der luftwirbel im kopf. im herzen. kalt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc6306aa1524c26ba5406c5736e50d5a16dad71e.jpg"></article>]]></description>
-            <link>http://textbild.sturmpost.com/200km-h-am-boden-und-or-1200-in-der-luftwirbel-im-kopf-im-h/index.html</link>
-            <guid isPermaLink="false">792cf488-93af-45f0-85d6-68daae363cbb</guid>
-            <pubDate>Sun, 15 May 2016 16:37:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[seelensplitter]]></title>
@@ -68,13 +75,6 @@
             <link>http://textbild.sturmpost.com/stein-schreit-zum-himmel/index.html</link>
             <guid isPermaLink="false">4a0c18d7-0c87-45b9-b77f-b2d85d9c3397</guid>
             <pubDate>Sun, 01 May 2016 10:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[durch. halten.]]></title>
-            <description><![CDATA[<article><h1>durch. halten.</h1><p>da muessen wir durch. koste. es. wolle/n. oder nicht.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d52069f-8c1d-40d2-a3d4-7b5832a1f01e.jpg"></article>]]></description>
-            <link>http://textbild.sturmpost.com/da-muessen-wir-durch-koste-es-wollen-oder-nicht/index.html</link>
-            <guid isPermaLink="false">82fbec67-14db-458f-bb37-7d8865751ee6</guid>
-            <pubDate>Sun, 01 May 2016 09:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
