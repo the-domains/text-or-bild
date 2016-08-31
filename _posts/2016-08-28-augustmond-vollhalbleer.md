@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-28T11:53:18.046Z'
+datePublished: '2016-08-29T06:29:32.492Z'
 sourcePath: _posts/2016-08-28-augustmond-vollhalbleer.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T11:53:17.419Z'
+dateModified: '2016-08-29T06:29:31.798Z'
 title: Augustmond VollHalbLeer
 publisher: {}
 description: 'nachTtage, strukturlos mitOhne LichtLuftLeben inMir umMich anMirvorbei'
 starred: false
-_type: Blurb
+url: augustmond-vollhalbleer/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21372722-38cd-4114-bab6-38887beb37a7.jpg)
@@ -43,7 +45,7 @@ fliege surrt nicht mehr
 
 1 schmerz 1 lust 1 da~sein
 
-düsenflieger weben ihr  
+düsenflieger weben  
 tröstliches rauschen  
 in die nacht
 
