@@ -1,24 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: 'Regnerisch kühler Hauch vom offenen Fenster. Da draußen nichts, außer gewaltigem Windrauschen zwischen Frühlingsblättern. Vertraute Fremdheit weit jenseits der eigenen Identität.'
-datePublished: '2016-05-25T00:09:15.673Z'
-dateModified: '2016-05-25T00:08:55.524Z'
-title: Tröstlich
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-08-29T14:12:40.959Z'
 sourcePath: _posts/2016-05-25-trostlich.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-29T14:12:40.417Z'
+title: Tröstlich
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
+url: trostlich/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Tröstlich
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/026acd2d-e0a7-4243-9313-863e13e02ae4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b7fcd4fbeedc35250fd16b656e0ca23bb77c8ff.jpg)
 
 Regnerisch kühler Hauch vom offenen Fenster. Da draußen nichts, außer gewaltigem Windrauschen zwischen Frühlingsblättern. Vertraute Fremdheit weit jenseits der eigenen Identität.
