@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T06:29:32.492Z'
+datePublished: '2016-08-29T19:00:13.300Z'
 sourcePath: _posts/2016-08-28-augustmond-vollhalbleer.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T06:29:31.798Z'
+dateModified: '2016-08-29T19:00:12.528Z'
 title: Augustmond VollHalbLeer
 publisher: {}
 description: 'nachTtage, strukturlos mitOhne LichtLuftLeben inMir umMich anMirvorbei'
